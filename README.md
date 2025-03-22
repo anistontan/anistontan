@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/HTQdvt6j/Your-paragraph-text-9.png" alt="GitHub banner" style="width:100%;" />
+
 <h1 align="center">hello! i am aniston! 👋</h1>
 
 <p align="center">
