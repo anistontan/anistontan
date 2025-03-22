@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### tech stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -21,7 +21,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### github stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anistontan&theme=radical" />
