@@ -1,7 +1,7 @@
-<h1 align="center">hello! I am aniston! 👋</h1>
+<h1 align="center">hello! i am aniston! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=welcome+to+my+github+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FDAEAE&center=true&vCenter=true&width=435&lines=welcome+to+my+github+profile!" alt="Typing SVG" />
 </p>
 
 ---
